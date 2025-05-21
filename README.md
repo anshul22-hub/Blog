@@ -1,8 +1,3 @@
-Thanks for sharing the screenshots! You're right — the first one has a **clean, modern, and visually structured** look, while your current YAML-based README looks more like a config file than a polished GitHub presentation.
-
-Here’s a **cleaned-up, modern, and nicely formatted Markdown README** version of your blog project, styled like the AI Article Summarizer one:
-
----
 
 # 📝 Blog App
 
@@ -104,12 +99,6 @@ Visit `http://localhost:5000` in your browser.
 
 ---
 
-## 📷 Screenshots
-
-> *Add screenshots of your app here for a better preview.*
-
----
-
 ## 🤝 Contributing
 
 Contributions and suggestions are welcome! Please open issues or submit pull requests to help improve the app.
@@ -121,11 +110,3 @@ Contributions and suggestions are welcome! Please open issues or submit pull req
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-## 📬 Contact
-
-Created by **Anshul** – feel free to reach out via [GitHub](https://github.com/anshul22-hub).
-
----
-
-Let me know if you'd like a badge section, live demo link, or deployment instructions (e.g., for Render, Railway, or Vercel).
